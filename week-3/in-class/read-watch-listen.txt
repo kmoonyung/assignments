@@ -1,176 +1,229 @@
-Exemplar: https://www.brooklinelibrary.org/teens/read-watch-listen/
-Title:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Read Watch Listen | Public Library of Brookline</title>
+</head>
+<body>
+<header>
+  <nav>
+  <h1>Our Public Library</h1>
+<ul>
+  <li><a href="http://find.minlib.net/iii/encore/;jsessionid=FD5CC70788D1135C9075590B7414BC86?lang=eng">CATALOG</a></li>
+  <li><a href="https://library.minlib.net/iii/cas/login?service=https%3A%2F%2Ffind.minlib.net%3A443%2Fiii%2Fencore%2Fj_acegi_cas_security_check&lang=eng">MY ACCOUNT</a></li>
+  <li><a href="https://www.brooklinelibrary.org/about/locations-hours/">HOURS & LOCATIONS</a></li>
+  <li><a href="https://brooklinelibrary.libanswers.com/form.php?queue_id=2304">ASK A QUESTION</a></li>
+  <li><a href="https://www.brooklinelibrary.org/donate/">DONATE</a></li>
+ </ul>
+  </nav>
+ </header>
 
-Our Public Library
+<nav>
+<ul>
+  <li>About</li>
+	  <ul>
+      <li>01 LIBRARY</li>
+		    <ul>
+          <li><a href="https://www.brooklinelibrary.org/about/locations-hours/">Hours & Locations</a></li>
+		      <li><a href="https://www.brooklinelibrary.org/about/directions/">Directions</a></li>
+          <li><a href="https://www.brooklinelibrary.org/about/contact-us/">Contact Us</a></li>
+          <li><a href="https://www.brooklinelibrary.org/about/history/">Mission & History</a></li>
+          <li><a href="https://www.brooklinelibrary.org/about/policies/">Policies</a></li>
+          <li><a href="https://www.brooklinelibrary.org/about/services/">Services For…</a></li>
+        </ul>
+	    <li>02 COMMUNITY</li>
+        <ul>
+		      <li>Trustees</li>
+		      <li>Brookline Library Foundation</li>
+		      <li>Friends of the Brookline Library</li>
+		      <li>Brookline Library Music Association</li>
+		      <li>Brookline Reads</li>
+		      <li>Get Involved</li>
+        </ul>
+      <li>03 WHAT’S TRENDING?</li>
+		    <ul>
+          <li>Our Blog</li>
+		      <li>Social Media</li>
+		      <li>Coolidge Building Project</li>
+        </ul>
+      </ul>
+  <li>What We Have</li>
+    <ul>
+	    <li>01 COLLECTIONS</li>
+        <ul>
+		      <li>Local History</li>
+		      <li>Chinese Materials 中文</li>
+		      <li>Russian Materials</li>
+		      <li>Hebrew Materials</li>
+		      <li>What’s New?</li>
+		      <li>Library of Things</li>
+		      <li>Staff Picks</li>
+        </ul>
+	    <li>02 E-LIBRARY</li>
+		    <ul>
+          <li>E-books</li>
+		      <li>Digital Audiobooks</li>
+		      <li>Digital Magazines</li>
+		      <li>Music & Movies</li>
+		      <li>Learning with Lynda.com</li>
+		      <li>All Resources</li>
+        </ul>
+	    <li>03 HOW DO I?</li>
+        <ul>
+		      <li>Get a Library Card</li>
+		      <li>Get a Museum Pass</li>
+		      <li>Reserve a Meeting Room</li>
+		      <li>Request a Title</li>
+		      <li>Donate & Buy Books</li>
+		      <li>3D Print at the Library</li>
+        </ul>
+      </ul>
+     <li>Events</li>
+      <ul>    
+        <li>01 CALENDAR</li>
+          <ul>
+		        <li>Full Calendar</li>
+		        <li>Adults</li>
+		        <li>Teens</li>
+		        <li>Kids</li>
+		        <li>Reserve a Meeting Room</li>
+         </ul>
+	        <li>02 SPECIAL EVENTS</li>
+		        <ul>
+              <li>Brookline Eats!</li>
+		          </li>Exhibits</li>
+		          </li>Concerts</li>
+            </ul>
+	        <li>03 ONGOING EVENTS</li>
+            <ul>
+		          <li>Book Groups</li>
+		          <li>ESL Conversation Groups</li>
+		          <li>Meetings</li>
+		          <li>Movies</li>
+		          <li>Poetry</li>
+		          <li>Storytimes</li>
+		          <li>More details…</li>
+             </ul>
+            </ul>
+         <li>Kids & Teens</li>
+           <ul>
+	          <li>01 KIDS</li>
+		          <ul>
+                <li>Kids’ Home</li>
+		            <li>News</li>
+		            <li>Things To Do</li>
+		            <li>Read Watch Listen</li>
+		            <li>For Parents and Educators</li>
+		            <li>Summer Reading</li> 
+               </ul>
+	            <li>02 TEENS</li>
+                <ul>
+		              <li>Teens’ Home</li>
+		              <li>About the Teen Room</li>
+		              <li>Things To Do</li>
+		              <li>Fandom Tuesdays</li>
+		              <li>Girls Who Code Club</li>
+		              <li>Read Watch Listen</li>
+		              <li>Study</li>
+             </ul>
+	            <li>03 HOW DO I?</li>
+                <ul>
+		              <li>Get a Library Card</li>
+		              <li>Sign up for Programs</li>
+		              <li>Request a Class Visit or Tour</li>
+		              <li>Ask for Assignment Help</li>
+             </ul>
+            </ul>
+</nav>
+  
+<main>Read Watch Listen
 
-CATALOG
-MY ACCOUNT
-HOURS & LOCATIONS
-ASK A QUESTION
-DONATE
 
-About
-	01 LIBRARY
-		Hours & Locations
-		Directions
-		Contact Us
-		Mission & History
-		Policies
-		Services For…
-	02 COMMUNITY
-		Trustees
-		Brookline Library Foundation
-		Friends of the Brookline Library
-		Brookline Library Music Association
-		Brookline Reads
-		Get Involved
-	03 WHAT’S TRENDING?
-		Our Blog
-		Social Media
-		Coolidge Building Project
-What We Have
-	01 COLLECTIONS
-		Local History
-		Chinese Materials 中文
-		Russian Materials
-		Hebrew Materials
-		What’s New?
-		Library of Things
-		Staff Picks
-	02 E-LIBRARY
-		E-books
-		Digital Audiobooks
-		Digital Magazines
-		Music & Movies
-		Learning with Lynda.com
-		All Resources
-	03 HOW DO I?
-		Get a Library Card
-		Get a Museum Pass
-		Reserve a Meeting Room
-		Request a Title
-		Donate & Buy Books
-		3D Print at the Library
-Events
-	01 CALENDAR
-		Full Calendar
-		Adults
-		Teens
-		Kids
-		Reserve a Meeting Room
-	02 SPECIAL EVENTS
-		Brookline Eats!
-		Exhibits
-		Concerts
-	03 ONGOING EVENTS
-		Book Groups
-		ESL Conversation Groups
-		Meetings
-		Movies
-		Poetry
-		Storytimes
-		More details…
-Kids & Teens
-	01 KIDS
-		Kids’ Home
-		News
-		Things To Do
-		Read Watch Listen
-		For Parents and Educators
-		Summer Reading
-	02 TEENS
-		Teens’ Home
-		About the Teen Room
-		Things To Do
-		Fandom Tuesdays
-		Girls Who Code Club
-		Read Watch Listen
-		Study
-	03 HOW DO I?
-		Get a Library Card
-		Sign up for Programs
-		Request a Class Visit or Tour
-		Ask for Assignment Help
+  <h2>Watch</h2>
+    <p>Our favorite films and TV for teens, both adapted from books and original stories.</p>
 
-Read Watch Listen
+      <ul>
+        <li>Smoke Signals</li>
+        <li>Smoke Signals</li>
 
+        <li>Avatar: The Last Airbender</li>
+        <li>Avatar: The Last Airbender</li>
 
-Watch
-Our favorite films and TV for teens, both adapted from books and original stories.
+        <li>The 100</li>
+        <li>The 100</li>
 
-Smoke Signals
-Smoke Signals
+        <li>サマーウォーズ</li>
+        <li>サマーウォーズ</li>
 
-Avatar: The Last Airbender
-Avatar: The Last Airbender
+        <li>The Way Way Back</li>
+        <li>The Way Way Back</li>
 
-The 100
-The 100
+        <li>Whip It</li>
+        <li>Whip It</li>
 
-サマーウォーズ
-サマーウォーズ
+        <li>Speak</li>
+        <li>Speak</li>
 
-The Way Way Back
-The Way Way Back
+        <li>The Spectacular Now</li>
+        <li>The Spectacular Now</li>
 
-Whip It
-Whip It
+        <li>Fat Kid Rules The World</li>
+        <li>Fat Kid Rules The World</li>
+  </ul>
 
-Speak
-Speak
+  <span>Print Email </span>
 
-The Spectacular Now
-The Spectacular Now
+  <h2>Listen</h2>
+    <p>Our favorite audiobooks, especially for the reader performances.</p>
+      <ul>
+        <li>The Diviners</li>
+        <li>The Diviners</li>
 
-Fat Kid Rules The World
-Fat Kid Rules The World
+        <li>The Scorpio Races</li>
+        <li>The Scorpio Races</li>
+        
+        <li>Rotters</li>
+        <li>Rotters</li>
+        
+        <li>Every Breath</li>
+        <li>Every Breath</li>
+        
+        <li>Cinder</li>
+        <li>Cinder</li>
+        
+        <li>The Marbury Lens</li>
+        <li>The Marbury Lens</li>
 
-Print Email
+        <li>The Ghosts Of Ashbury High</li>
+        <li>The Ghosts Of Ashbury High</li>
+        
+        <li>Okay for Now</li>
+        <li>Okay for Now</li>
+        
+        <li>Ready Player One audio</li>
+        <li>Ready Player One audio</li>
+        
+        <li>he Watch That Ends the Night</li>
+        <li>he Watch That Ends the Night</li>
+  </ul>
 
-Listen
-Our favorite audiobooks, especially for the reader performances.
+<span>Print Email</span>
 
-The Diviners
-The Diviners
+<div class="sidenav">BROWSE SECTION
+  <a href="">ABOUT THE TEEN ROOM</a>
+  <a href="">ASK FOR ASSIGNMENT HELP</a>
+  <a href="">READ WATCH LISTEN</a>
+  <a href="">SIGN UP FOR PROGRAMS</a>
+  <a href="">STUDY</a>
+  <a href="">SUMMER READING</a>
+  <a href="">THINGS TO DO</a>
+  <a href="">VOLUNTEER</a>
+</div>
 
-The Scorpio Races
-The Scorpio Races
-
-Rotters
-Rotters
-
-Every Breath
-Every Breath
-
-Cinder
-Cinder
-
-The Marbury Lens
-The Marbury Lens
-
-The Ghosts Of Ashbury High
-The Ghosts Of Ashbury High
-
-Okay for Now
-Okay for Now
-
-Ready Player One audio
-Ready Player One audio
-
-The Watch That Ends the Night
-The Watch That Ends the Night
-
-Print Email
-
-BROWSE SECTION
-ABOUT THE TEEN ROOM
-ASK FOR ASSIGNMENT HELP
-READ WATCH LISTEN
-SIGN UP FOR PROGRAMS
-STUDY
-SUMMER READING
-THINGS TO DO
-VOLUNTEER
-
-Summer Reading
-Check out our own Summer Reading Scratch Ticket Challenge and get the details on the Brookline Public Schools Summer Reading lists for grades 7 through 12.
+<footer>
+  <h2>Summer Reading</h2>
+  <p>Check out our own Summer Reading Scratch Ticket Challenge and get the details on the Brookline Public Schools Summer Reading lists for grades 7 through 12.</p>
+ </footer>
+  </main>
+  </body>
+</html>
