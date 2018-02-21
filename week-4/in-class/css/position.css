@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  height: 105px;
+}
+
+header h1 {
+  position: absolute;
+  left: 5%
+    top: 0;
+  line-height: 105px;
+}
+
+header img {
+  position: absolute;
+  right: 5%;
+  top: 0;
+}
+
+nav {
+    background-color: black;
+    color: white;
+}
+
+nav ul {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 5%;
+    height: 40px;
+    line-height: 40px; /** see line-height comment above **/
+}
+
+nav li {
+  list-style: none;
+  padding-left: 1em;
+}
+
+nav a {
+  color: white;
+  background-color: black;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 5% 0 5%;
+}
+
+article {
+  width: 60%;
+}
+
+aside {
+  width: 35%;
+  background-color: saddlebrown;
+}
+
+footer {
+  background-color: brown;
+  height: 4em;
+}
+
+.cross-page-quote {
+  background-color: gray;
+  height: 4em;
+}
+
