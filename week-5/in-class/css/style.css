@@ -7,11 +7,23 @@
 body {
     font-family: 'Gentium Basic', serif;
     font-size: 16px;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+a {
+  color: blue;
+}
+
+.uppercase {
+  text-transform: capitalize;
 }
 
 h1, h2, h3, nav {
     font-family: 'Open Sans', sans-serif;
     font-weight: normal;
+    padding-right: 6rem;
+    padding-left: 6rem;
 }
 
 h1, h2, h3 {
@@ -24,6 +36,7 @@ header {
     background-color: #6d6fae;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    padding-left: 6rem;
 }
 
 header img {
@@ -79,14 +92,37 @@ div.dropbtn {
     cursor: pointer;
 }
 
+main {
+  background-color: white;
+  padding-left: 6rem;
+  padding-right: 6rem;
+  display: flex;
+
+}
+
+aside {
+  width: 25rem;
+}
 
 /** Stuff in the main body **/
-article p {
+.scroll {
+  width: 12.5rem;
+  text-align: center;
+}
+.article p {
     margin-bottom: 1em;
 }
 
+.fables {
+    width: 50%;
+}
+
+.article {
+  text-align: left;
+}
+
 .moral {
-    font-style: italic;
+    font-style: bold;
 }
 
 .link-to-source {
@@ -103,5 +139,12 @@ article p {
 /* Footer */
 footer {
     background-color: #cfc354;
-    color: #fffbd5;
+    color: black;
+    height: 12em;
+    text-align: center;
+    padding-top: 5rem;
+    padding bottom: 5rem;
+    font-size: 1em;
+    padding-right: 6em;
+    padding-left: 6em;
 }
