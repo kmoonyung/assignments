@@ -13,15 +13,16 @@ header {
 }
 
 .footer {
-  position: fixed;
+  position: relative;
+  width: 100%;
   left: 0;
   bottom: 0;
-  width: 100%;
 	background-color: DodgerBlue;
   color: black;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   font-size: 120%;
+  overflow: auto;
 }
 
 
@@ -31,7 +32,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    overflow: auto;
     background-color: LightGray;
     font-family: 'Montserrat', sans-serif;
     font-size: 100%;
@@ -55,20 +56,21 @@ li a:hover {
 }
 /*end nav formatting*/
 
-p, article {
+p {
   padding-top: 10px;
-  padding-right: 20px;
+  padding-right: 40px;
   padding-left: 20px;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
   font-family: 'Montserrat', sans-serif;
   text-align: justify;
-  font-size: 18px;
+  font-size: 16px;
+  overflow: auto;
 }
 
 #center {
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 40%;
 }
 
 h1, h2, h3 {

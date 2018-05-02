@@ -1,0 +1,3 @@
+This website is made for the final LIS467 assignment. It is a skeleton of a fictional website that acts as the web presence for a whale shark research institute. This fictional institute has a physical space, but also seeks to make their website a meeting point for other digital resources; this is why there is a physical page and a digital page (assuming digital resources would be accessed via databases and the physical holdings would be searched by catalog). 
+
+The events page was the moonshot for hosting whale shark dives!
